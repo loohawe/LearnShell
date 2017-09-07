@@ -1,0 +1,7 @@
+LearnShell.xcodeproj/xcuserdata/
+LearnShell.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+LearnShell.xcodeproj/project.xcworkspace/xcuserdata/
