@@ -185,11 +185,13 @@
 					751F7E4C1F61446F004086FF = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = RU85R33KSG;
+						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 					};
 					751F7E601F61446F004086FF = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = RU85R33KSG;
+						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 751F7E4C1F61446F004086FF;
 					};
